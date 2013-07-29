@@ -26,4 +26,7 @@
 
 	// If true, some commands will take the current indentation level into account.
 	"vintageous_autoindent": true,
+
+	// If true, all opened tabs will start in insert mode
+	"vintageous_start_in_insert_mode": false
 }
